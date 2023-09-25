@@ -20,3 +20,9 @@ gow=0
 while(gow<9):
     print(gow)
     gow+=1
+
+print("---------------------------------------------")
+
+for i in range(1,10):
+   for j in range(1,100):
+       print(i+j)
