@@ -3,6 +3,10 @@ int (1,-1)
 boolean
 float
 complex
+List
+Tuple
+Dictionary
+Set
 
 '''
 
